@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/basic-c-sdl-project-tunisia-flag.dir/src/main.c.o -o basic-c-sdl-project-tunisia-flag  /usr/lib/x86_64-linux-gnu/libSDL2_image.so /usr/lib/x86_64-linux-gnu/libSDL2_ttf.so /usr/lib/x86_64-linux-gnu/libSDL2_mixer.so /usr/lib/x86_64-linux-gnu/libSDL2_gfx.so -lm /usr/lib/x86_64-linux-gnu/libSDL2main.a /usr/lib/x86_64-linux-gnu/libSDL2.so -lpthread 

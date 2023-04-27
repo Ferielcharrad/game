@@ -1,0 +1,3 @@
+/home/feriel/game/build/CMakeFiles/rebuild_cache.dir
+/home/feriel/game/build/CMakeFiles/edit_cache.dir
+/home/feriel/game/build/CMakeFiles/basic-c-sdl-project-tunisia-flag.dir
